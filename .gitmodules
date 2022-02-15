@@ -1,0 +1,3 @@
+[submodule "theme/accessible-minimalism-wordpress-theme"]
+	path = theme/accessible-minimalism-wordpress-theme
+	url = git@github.com:leonstafford/accessible-minimalism-wordpress-theme.git
