@@ -1,3 +1,6 @@
 [submodule "theme/accessible-minimalism-wordpress-theme"]
 	path = theme/accessible-minimalism-wordpress-theme
 	url = git@github.com:leonstafford/accessible-minimalism-wordpress-theme.git
+[submodule "plugin/wp2staticwww-wp-plugin"]
+	path = plugin/wp2staticwww-wp-plugin
+	url = git@github.com:leonstafford/wp2staticwww-wp-plugin.git
