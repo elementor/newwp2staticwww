@@ -4,3 +4,6 @@
 [submodule "plugin/wp2staticwww-wp-plugin"]
 	path = plugin/wp2staticwww-wp-plugin
 	url = git@github.com:leonstafford/wp2staticwww-wp-plugin.git
+[submodule "theme/wp2staticwww-child-theme"]
+	path = theme/wp2staticwww-child-theme
+	url = git@github.com:leonstafford/wp2staticwww-child-theme.git
